@@ -1,0 +1,16 @@
+{
+  "latestMenuVersion": "0.0.1",
+  "minimumMenuVersion": "0.0.1",
+  "messageOfTheDayText": "",
+  "admins": [
+    {
+      "name": "wifiskell",
+      "userId": ""
+    }
+  ],
+  "superAdmins": [
+    "wifiskell"
+  ],
+  "knownCheats": {},
+  "knownMods": {}
+}
